@@ -1,0 +1,4 @@
+# Jupyter related material
+.ipynb_checkpoints/
+
+.gitignore~
